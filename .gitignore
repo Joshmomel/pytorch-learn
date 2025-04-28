@@ -21,5 +21,4 @@ data/
 .vscode/
 
 # OS specific
-.DS_Store 
-data/
+.DS_Store
